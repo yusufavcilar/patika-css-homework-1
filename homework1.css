@@ -1,0 +1,54 @@
+/***************** Anasayfa *****************/
+.body{
+    background-color: blanchedalmond;
+}
+.navbar{
+    background-color: rgb(42, 106, 165);
+    color: white;
+    border: 1px solid rgb(42, 106, 165);
+    display: inline-block;
+    margin-left: 650px;
+    border-radius: 20px;
+}
+
+.head{
+    
+  font-size: xx-large;
+    color: coral;
+    
+}
+.açıklama{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: xx-large;
+    color: cadetblue;
+}
+
+/***************** Dizilerimiz *****************/
+.diziler{
+    display: inline-block;
+    background-color: rgb(42, 106, 165);
+    color: white;
+    border: 1px solid rgb(42, 106, 165);
+    border-radius: 20px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+   }
+
+/***************** Hakkımızda *****************/
+.diziler{
+    display: inline-block;
+    background-color: rgb(42, 106, 165);
+    color: white;
+    border: 1px solid rgb(42, 106, 165);
+    border-radius: 20px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+   
+}
+.açıklama {
+    display: inline-block;
+margin-left: 50px;
+font-size: xx-large;
+color: cadetblue;
+}
